@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rdpProxyLog", "rdpProxyLog\rdpProxyLog.csproj", "{E7A98ED4-EE70-4612-A59C-FD87D84EDF1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpUtil", "TcpClient\TcpUtil.csproj", "{7AD7FC1E-AA79-4664-AF93-BFFE5B8A51FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A98ED4-EE70-4612-A59C-FD87D84EDF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A98ED4-EE70-4612-A59C-FD87D84EDF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A98ED4-EE70-4612-A59C-FD87D84EDF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A98ED4-EE70-4612-A59C-FD87D84EDF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD7FC1E-AA79-4664-AF93-BFFE5B8A51FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7FC1E-AA79-4664-AF93-BFFE5B8A51FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7FC1E-AA79-4664-AF93-BFFE5B8A51FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7FC1E-AA79-4664-AF93-BFFE5B8A51FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
